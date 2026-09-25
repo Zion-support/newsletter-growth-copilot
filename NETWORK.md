@@ -1,6 +1,6 @@
 # Newsletter Growth Copilot — Network Links
 
-Subject-line testing, send-time optimization and churn prevention.
+Grow subscribers with referral loops and content performance analysis.
 
 ## Live
 - App: https://ziontechgroup.com/newsletter-growth-copilot/
@@ -10,7 +10,7 @@ Subject-line testing, send-time optimization and churn prevention.
 ## Related apps
 - [ai-growth-marketing-hub](https://ziontechgroup.com/ai-growth-marketing-hub/) · [GitHub](https://github.com/Zion-support/ai-growth-marketing-hub)
 - [ai-product-description-writer](https://ziontechgroup.com/ai-product-description-writer/) · [GitHub](https://github.com/Zion-support/ai-product-description-writer)
-- [ai-review-insights](https://ziontechgroup.com/ai-review-insights/) · [GitHub](https://github.com/Zion-support/ai-review-insights)
+- [ad-budget-optimizer](https://ziontechgroup.com/ad-budget-optimizer/) · [GitHub](https://github.com/Zion-support/ad-budget-optimizer)
 
 ## Network
 - Homepage: https://ziontechgroup.com
